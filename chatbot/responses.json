@@ -1,0 +1,33 @@
+{
+    "hello": [
+      "Hello! How can I assist you today?",
+      "Hi there! How may I help you?",
+      "Greetings! How can I be of service?"
+    ],
+    "appointment": [
+      "You can schedule an appointment on our website or call us at 123-456-7890.",
+      "Appointments can be booked online or through our reception desk.",
+      "Feel free to visit the appointments page for booking."
+    ],
+    "location": [
+      "We are located at 123 Hospital Road. You can find us on Google Maps.",
+      "Our hospital is at 123 Hospital Road, near the main square.",
+      "You can reach us at 123 Hospital Road, accessible via public transport."
+    ],
+    "services": [
+      "We provide a wide range of healthcare services including cardiology, neurology, and general medicine.",
+      "Our services include emergency care, surgery, and diagnostic testing.",
+      "You can visit our services page for a full list of what we offer."
+    ],
+    "bye": [
+      "Goodbye! Stay healthy!",
+      "Take care! Have a great day!",
+      "It was nice talking to you. Goodbye!"
+    ],
+    "default": [
+      "I'm sorry, I didn't understand that. Could you please rephrase?",
+      "Could you clarify your question? I'm here to help!",
+      "I didn't quite catch that. Can you try asking in a different way?"
+    ]
+  }
+  
